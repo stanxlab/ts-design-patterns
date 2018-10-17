@@ -1,3 +1,5 @@
+// 模板方法模式
+
 import { HummerH1Model } from "./HummerH1Model";
 import { HummerH2Model } from "./HummerH2Model";
 
