@@ -13,5 +13,7 @@ Blog地址: <http://jasonzeng.top/2018/10/08/8-Book-The-Zen-of-Design-Patterns/>
 
 ## 建造者模式 <./5_builder>
 
-## 建造者模式 <./6_proxy>
+## 代理模式 <./6_proxy>
+
+## 原型模式 (略)
 
