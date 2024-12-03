@@ -1,10 +1,10 @@
 
-# 代码模式
+# 代理模式
 > Proxy Pattern  
 > Provide a surrogate or placeholder for another object to control access to it. (为其他对象提供一种代理以控制对这个对象的访问.)
 
 
-代码模式, 也叫作委托模式. 许多其他的模式,如状态模式/策略模式/访问者模式本质上是在更特殊的场合使用了委托模式.(TODO: 待理解)
+代理模式, 也叫作委托模式. 许多其他的模式,如状态模式/策略模式/访问者模式本质上是在更特殊的场合使用了委托模式.(TODO: 待理解)
 
 
 ## 通用模式
